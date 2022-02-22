@@ -2,7 +2,8 @@
 
 - 🔭 No momento estou procurando uma oportunidade para ingressar o mercado de trabalho na área de tecnologia.
 - 🌱 Comecei a estudar PYTHON.
-- 😄 Pronouns: ele/dele.
+- 😄 Pronomes: ele/dele.
+- 🗣 Me dou bem em português e inglês.
 
 <div align="center">
   <a href="https://github.com/guizond">
