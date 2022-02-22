@@ -2,7 +2,7 @@
 
 - 🔭 No momento estou procurando uma oportunidade para ingressar o mercado de trabalho na área de tecnologia.
 - 🌱 Comecei a estudar PYTHON.
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: ele/dele.
 
 <div align="center">
   <a href="https://github.com/guizond">
