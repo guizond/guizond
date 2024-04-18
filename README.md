@@ -1,7 +1,6 @@
 ### Oi, eu sou o Guilherme Dorow, muito prazer.
 
 - 🔭 No momento estou procurando uma oportunidade para ingressar o mercado de trabalho na área de tecnologia.
-- 😄 Pronomes: ele/dele.
 - 🗣 Me dou bem em português e inglês.
 - 💬 Contate-me pelo e-mail: guilherme.dorow@hotmail.com
 
