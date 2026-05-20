@@ -2,6 +2,7 @@
 
 - 🔭 No momento estou procurando uma oportunidade para ingressar o mercado de trabalho na área de tecnologia.
 - 🗣 Me dou bem em português e inglês.
+- Técnologias que venho utilizando: HTML – CSS – JavaScript – React – Java – SQL – Git – Github – Firebase – APIs Rest
 - 💬 Contate-me pelo e-mail: guilherme.dorow@hotmail.com
 
  <div>  
